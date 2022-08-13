@@ -1,0 +1,12 @@
+.navbar .nav-item .nav-link {
+    color: aliceblue;
+}
+.navbar .nav-item .nav-link:focus {
+    color: red;
+    font-weight: 900;
+}
+.navbar .nav-item .nav-link:hover {
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 10px;
+}
